@@ -3,3 +3,4 @@ vetka basket-delivery-options
 third
 chetyri
 pyat
+shest
